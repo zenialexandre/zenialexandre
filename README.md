@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Junior Software Developer, currently working at <i>Philips Clinical Informatics</i> and attending Compunter Science at FURB - Blumenau, Santa Catarina.
+I am a Junior Software Developer, currently working at <i>Philips Clinical Informatics</i> and attending <i>Compunter Science at FURB - Blumenau, Santa Catarina</i>.
