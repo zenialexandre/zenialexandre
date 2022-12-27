@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am a Junior Software Developer, currently working at <i>Philips Clinical Informatics</i> and attending <i>Compunter Science at FURB - Blumenau, Santa Catarina</i>.
+
+https://www.linkedin.com/in/alexandre-zeni-8190951b2/
