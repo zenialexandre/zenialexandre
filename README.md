@@ -19,4 +19,4 @@ I am a Junior Software Developer, currently working at <i>Philips Clinical Infor
 
 https://www.linkedin.com/in/alexandre-zeni-8190951b2/
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zenialexandre&langs_count=5&theme=tokyonight)]()
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
