@@ -3,6 +3,7 @@
 I am a Software Developer, currently working at <i>Philips Clinical Informatics</i> and attending <i>Compunter Science at FURB - Blumenau, Santa Catarina</i>.
 
 You can reach me on Linkedin: https://www.linkedin.com/in/alexandre-zeni-8190951b2/
+<br>
 Or at my personal e-mail: zenialexandre123@gmail.com
 
 <!--
