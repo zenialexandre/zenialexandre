@@ -10,7 +10,9 @@ Or at my personal e-mail: zenialexandre123@gmail.com
 - 💮 I’m currently working on my own Game Engine written in Rust: [`Lotus`](https://github.com/zenialexandre/lotus).
 - 🤺 I’m currently learning about Backend, Game and Graphics Development.
 
-<img width="498" height="396" alt="cyndaquil_2d_gif" src="https://github.com/user-attachments/assets/6693c0b3-e295-4d20-8373-bbe20c53b8af" />
+<div align="right">
+  <img width="128" height="128" alt="cyndaquil_2d_gif-ezgif com-resize" src="https://github.com/user-attachments/assets/d6230395-8037-40b6-8cc1-fa71d1c0c86f" />
+</div>
 
 <div align="left">
   <a href="https://github.com/zenialexandre">
