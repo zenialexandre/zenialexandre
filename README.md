@@ -11,7 +11,7 @@ Or at my personal e-mail: zenialexandre123@gmail.com
 - 🤺 I’m currently learning about Backend, Game and Graphics Development.
 
 <div align="right">
-  <img width="128" height="128" alt="cyndaquil_2d_gif-ezgif com-resize" src="https://github.com/user-attachments/assets/d6230395-8037-40b6-8cc1-fa71d1c0c86f" />
+  <img width="128" height="128" alt="cyndaquil_2d_gif-ezgif com-resize_transparent" src="https://github.com/user-attachments/assets/aa8b3df1-54bf-47c6-9cf8-66da5fe06fa6" />
 </div>
 
 <div align="left">
